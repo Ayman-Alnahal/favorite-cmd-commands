@@ -1,0 +1,6 @@
+The Bash commands that I like:
+1- cd to change directory.
+2- ls list folders and files.
+3- cd .. it goes to a parent directory.
+4- code . to open Visual Studio Code in the current directory.
+5- mv to move files or folders from one directory to another.
